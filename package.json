@@ -1,13 +1,19 @@
 {
   "name": "db",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Object Relational Map (ORM) to execute SQL statements from JSON objects.",
   "main": "index.js",
   "scripts": {
     "test": "jest ."
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/ioncakephper/db"
+  },
+  "author": {
+    "email": "shytiger@yahoo.com",
+    "name": "Ion Gireada"
+  },
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21"
   },
